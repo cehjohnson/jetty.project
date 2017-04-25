@@ -38,7 +38,7 @@ If you have a standard web application, you can hot deploy it into Jetty by copy
 The demo-base/webapps directory contains the following deployable and auxiliary files:
 
 `ROOT/`::
-  A directory of static content that is deployed to the root context / due to it's name. 
+  A directory of static content that is deployed to the root context / due to its name. 
   Contains the Jetty demo welcome page.
 `test.d`::
   A directory containing additional configuration files used by `test.xml` to inject extra configuration into `test.war`.  
